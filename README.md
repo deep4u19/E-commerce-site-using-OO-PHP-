@@ -1,1 +1,2 @@
-# E-commerce-site-using-OO-PHP-
+This is a fully functioning e commerce site made using oo php. It's an online pharmacy where customers can search for a specific medicine and also has a wishlist so that customers can ask for medicines that are not available in the site. It has user authentication and an admin panel to control the whole site. You can visit the site in the below link.
+Link : http://thegoblins.top/1.Online%20Pharmacy%20OOPHP/
